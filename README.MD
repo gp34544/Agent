@@ -39,7 +39,7 @@ Each 1% conversion gain = $8–10M revenue
 ## Use Case
 Assigned Industry Use Case:
 Life Science:Proactive Identification of Interventions Framework	An Agentic AI framework that is a set of behavioral and digital interventions across the treatment journey strategically timed and orchestrated that could generate recovery of lost annual sales from leakage.
-https://private-user-images.githubusercontent.com/111683019/440090347-eadaf6f0-9af8-4fea-8209-758c769bc998.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0NjYzMDMsIm5iZiI6MTc0NjQ2NjAwMywicGF0aCI6Ii8xMTE2ODMwMTkvNDQwMDkwMzQ3LWVhZGFmNmYwLTlhZjgtNGZlYS04MjA5LTc1OGM3NjliYzk5OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNVQxNzI2NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZWZkZmQyM2IyMzFhZDgxNGY1NDJjZDQ5ZTI0ZjFlMTAyNDIzNmI1YTE1NmVlMDIzZWRkYzUzNjNlZTEyMDNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VD80C1f9w4TxROQoyqXeOxfT7p3_frtcHbcDCy903Ng
+
 ## Contributors
 This project was developed by a dedicated team of contributors:
 - **[Contributor 1 Name]**: [Role or contribution]
