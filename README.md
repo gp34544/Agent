@@ -16,6 +16,8 @@ These issues often cause patients to delay, abandon, or never start their much-n
 
 At the same time, support teams—like Access & Reimbursement Managers (ARMs), patient coordinators, and healthcare providers—lack real-time visibility into these hurdles. They rely on static reports or delayed updates, making it hard to step in early when intervention matters most.
 
+file:///C:/Users/gprahara/OneDrive%20-%20Capgemini/Desktop/Untitled%20Diagram13.drawio.html
+
 **Slide Title: Proactive Patient Interventions with Agentic AI**
 
 ---
