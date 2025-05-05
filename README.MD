@@ -32,7 +32,7 @@ Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs
 25% higher script-to-sale conversion
 Each 1% conversion gain = $8–10M revenue 
 
-impact## Use Case
+## Use Case
 Assigned Industry Use Case:
 [Add the specific Industry use case]
  
