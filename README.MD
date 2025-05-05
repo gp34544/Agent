@@ -48,7 +48,7 @@ This project was developed by a dedicated team of contributors:
 - **[Contributor 4 Name]**: [Role or contribution]
 
 ## Images
-![Screenshot 1](path/to/screenshotreenshot2.png
+
 
 ## Implementation
 [Provide a detailed explanation of how the project was implemented, including any technical details, architecture, and design decisions.]
