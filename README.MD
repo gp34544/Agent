@@ -4,6 +4,22 @@
 ## Overview
 Welcome to our project submission for the Agentic AI incubation! This repository contains the code and documentation for our innovative solution. Our project aims in Patient Services Optimization:Exploring data-driven patient journey and providing actionable insights to address withdrwal rates and time to therapy.
 
+In the healthcare and pharmaceutical space, specialty and high-cost treatments (like oncology, rare diseases, and advanced biologics) require more than just a prescription. The patient journey from prescription to actual therapy initiation is often long, fragmented, and full of friction.
+
+Even after a doctor prescribes the treatment, patients frequently encounter:
+
+Insurance prior authorizations and denials
+
+High out-of-pocket costs or co-pay hurdles
+
+Long wait times for specialty pharmacy approvals
+
+Lack of clear guidance or follow-up support
+
+These issues often cause patients to delay, abandon, or never start their much-needed treatments. This is especially critical for specialty medications, where timely initiation is crucial to outcomes.
+
+At the same time, support teams—like Access & Reimbursement Managers (ARMs), patient coordinators, and healthcare providers—lack real-time visibility into these hurdles. They rely on static reports or delayed updates, making it hard to step in early when intervention matters most.
+
 ## Explanation
 Our project leverages [mention any technologies, frameworks, or tools used] to create a [describe the type of solution, e.g., web application, mobile app, etc.]. The core functionality includes:
 - **Feature 1**: [Briefly describe the first key feature]
