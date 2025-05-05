@@ -41,3 +41,7 @@ Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs
 
 Diagram
 ![image](https://github.com/user-attachments/assets/eadaf6f0-9af8-4fea-8209-758c769bc998)
+
+Architecture Diagram:
+![image](https://github.com/user-attachments/assets/fd3a84c7-b871-4a8b-aa5b-c426ef720bad)
+
