@@ -2,7 +2,7 @@
 **[Your Team Name Here]**
 
 ## Overview
-Welcome to our project submission for the Agentic AI incubation! This repository contains the code and documentation for our innovative solution. Our project aims to [briefly describe the main goal or problem your project addresses].
+Welcome to our project submission for the Agentic AI incubation! This repository contains the code and documentation for our innovative solution. Our project aims in Patient Services Optimization:Exploring data-driven patient journey and providing actionable insights to address withdrwal rates and time to therapy.
 
 ## Explanation
 Our project leverages [mention any technologies, frameworks, or tools used] to create a [describe the type of solution, e.g., web application, mobile app, etc.]. The core functionality includes:
