@@ -27,7 +27,7 @@ Our project leverages [mention any technologies, frameworks, or tools used] to c
 - **Feature 3**: [Briefly describe the third key feature]
 
 ## Intent
-The primary intent of our project is to [explain the purpose or motivation behind your project]. We aim to [mention any specific goals or outcomes you hope to achieve].
+Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs, and payer-related barriers early to improve adherence and conversion.
 
 ## Use Case
 Assigned Industry Use Case:
