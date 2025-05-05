@@ -28,8 +28,11 @@ Our project leverages [mention any technologies, frameworks, or tools used] to c
 
 ## Intent
 Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs, and payer-related barriers early to improve adherence and conversion.
+30% faster Time to Therapy (TTF)
+25% higher script-to-sale conversion
+Each 1% conversion gain = $8–10M revenue 
 
-## Use Case
+impact## Use Case
 Assigned Industry Use Case:
 [Add the specific Industry use case]
  
