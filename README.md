@@ -43,5 +43,4 @@ Diagram
 ![image](https://github.com/user-attachments/assets/eadaf6f0-9af8-4fea-8209-758c769bc998)
 
 Architecture Diagram:
-![image](https://github.com/user-attachments/assets/fd3a84c7-b871-4a8b-aa5b-c426ef720bad)
-
+![image](https://github.com/user-attachments/assets/2294a3e4-7e7b-449e-a207-4a550480f558)
