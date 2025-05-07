@@ -40,9 +40,14 @@ Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs
 * 30% faster Time to Therapy (TTF)
 * 25% higher script-to-sale conversion
 * Each 1% conversion gain = \$8–10M revenue impact
+  
 
 Diagram
 ![image](https://github.com/user-attachments/assets/eadaf6f0-9af8-4fea-8209-758c769bc998)
+
+Agentic flow & Orchestration:
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/b6cde8e8-089e-42ff-90c6-ca46f95a86d4" />
+
 
 Architecture Diagram:
 ![image](https://github.com/user-attachments/assets/2294a3e4-7e7b-449e-a207-4a550480f558)
