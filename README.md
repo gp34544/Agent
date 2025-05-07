@@ -43,15 +43,16 @@ Predict and prevent treatment withdrawal by identifying high-risk patients, HCPs
   
 
 Diagram
-Agentic flow & Orchestration:
+
 
 
 ![image](https://github.com/user-attachments/assets/eadaf6f0-9af8-4fea-8209-758c769bc998)
 
+Agentic flow & Orchestration:
 
 
 
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/b6cde8e8-089e-42ff-90c6-ca46f95a86d4" />
+       <img width="461" alt="image" src="https://github.com/user-attachments/assets/b6cde8e8-089e-42ff-90c6-ca46f95a86d4" />
 
 
 Architecture Diagram:
