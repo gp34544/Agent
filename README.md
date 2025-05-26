@@ -1,5 +1,7 @@
 🧭 Usecase Overview:
 
+R3P-020;000000000002004292;0000000819;001;O;001;0000;"\"20\"\"";0.0;"";0.0;"";1;0.0;0.0;"";0.0;"";"";00000000;"";0000000000;000;0000;""
+
 In the healthcare and pharmaceutical space, specialty and high-cost treatments (like oncology, rare diseases, and advanced biologics) require more than just a prescription. The patient journey from prescription to actual therapy initiation is often long, fragmented, and full of friction.
 
 Even after a doctor prescribes the treatment, patients frequently encounter:
