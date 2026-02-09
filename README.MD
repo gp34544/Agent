@@ -1,3 +1,20 @@
+•	What is the Report/Workbook name
+•	What Dimensions (attributes, text and hierarchies) are displayed in the report?
+•	Dimensions displayed as Key ID/Text?
+•	Dimensions sorted in Ascending/Descending?
+•	What are the Business rules for dimensions if any?
+•	Details of measures/KPIs are displayed in the report.
+•	What are the Business rules/logic to calculate measures/KPIs?
+•	What are the format of the measures?
+•	Number of decimal places displayed for measures?
+•	What fields are displayed in rows and columns
+•	Are there any report default filters or restrictions included?
+•	What filters are used in the report?
+•	What dimensions are used in the report selection screen parameters?
+•	What parameter type details (single value, multiple value, range etc) are used in the report?
+•	What default values are used in the selection screen parameters? Eg. default to current period?
+•	What parameters in the selection screen are used - mandatory or optional?
+•	What Custom Formulas, EPM Local Member Formulas, VBA automations and other customisations/business logic used in the report/workbooks?
 
 
 
@@ -59,3 +76,4 @@ This project was developed by a dedicated team of contributors:
 
 ## Additional Information
 [Include any other relevant information about the project, such as future plans, known issues, or acknowledgments.]
+
