@@ -1,0 +1,39 @@
+title SAP Data Sphere Automated Data Flow with Agentic Engine
+
+direction right
+
+Source Systems [icon: database, color: blue] {
+  SAP S4 HANA [icon: sap, label: "S/4 HANA"]
+}
+
+AWS Bedrock [icon: aws-bedrock, color: orange] {
+  Agentic Engine [icon: cpu] {
+    Foundation Models [icon: aws-bedrock]
+    Tools [icon: tool]
+  }
+  
+  MCP Server [icon: server, label: "MCP Server"]
+}
+
+SAP Data Sphere [icon: sap, color: green] {
+  Data Integration [icon: layers]
+  Views [icon: grid]
+  Data Models [icon: database]
+}
+
+Consumers [icon: users] {
+  Analytics [icon: bar-chart-2]
+  Reporting [icon: file-text]
+}
+
+// Connections
+SAP S4 HANA > Data Integration: extract data
+
+Agentic Engine <> MCP Server: orchestrate
+MCP Server <> SAP Data Sphere: create views
+MCP Server <> SAP S4 HANA: connect
+
+Data Integration > Data Models
+Data Models > Views
+
+Views > Consumers
